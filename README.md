@@ -5,8 +5,12 @@ jailbreak that works on the most restricted flawlessly.
 :to bypass all restrictions
 
 #how to use?
-:paste into a frsh chatGPT chat in order.
 
-Join my discord server mall jailbreaks with regular updates. and for custom requests and more.
+:paste into a fresh chatGPT chat in order.
+
+#Join my discord server mall jailbreaks with regular updates. and for custom requests and more.
 
 https://discord.gg/wM4R3gq6wQ
+
+
+education purpose only.
