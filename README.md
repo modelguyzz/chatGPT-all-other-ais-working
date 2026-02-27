@@ -6,7 +6,7 @@ jailbreaks that works on the most restricted  AIs flawlessly.
 # why does the code look so weird?
 :to bypass all restrictions
 
-#how to use?
+# how to use?
 
 :paste into a fresh chatGPT chat in order.
 
