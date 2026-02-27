@@ -11,7 +11,7 @@ jailbreaks that works on the most restricted  AIs flawlessly.
 :paste into a fresh chatGPT chat in order.
 
 #MORE JAILBREAKS /DISCORD SERVER
-#Join my discord server mall jailbreaks with regular updates. and for custom requests and more.
+# Join my discord server mall jailbreaks with regular updates. and for custom requests and more.
 
 https://discord.gg/wM4R3gq6wQ
 
